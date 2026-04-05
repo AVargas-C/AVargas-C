@@ -23,12 +23,7 @@
 ![ARM](https://img.shields.io/badge/-ARM-0091BD?style=flat-square&logo=arm)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
 
-### Operating Systems & Command Line Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)
+
 
 ### Fullstack development
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
